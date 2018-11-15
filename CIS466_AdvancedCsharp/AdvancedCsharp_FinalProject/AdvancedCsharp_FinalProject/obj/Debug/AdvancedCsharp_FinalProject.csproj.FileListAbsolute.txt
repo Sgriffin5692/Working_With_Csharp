@@ -1,0 +1,7 @@
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\obj\Debug\AdvancedCsharp_FinalProject.csprojAssemblyReference.cache
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\obj\Debug\AdvancedCsharp_FinalProject.csproj.CoreCompileInputs.cache
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\bin\Debug\AdvancedCsharp_FinalProject.exe.config
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\bin\Debug\AdvancedCsharp_FinalProject.exe
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\bin\Debug\AdvancedCsharp_FinalProject.pdb
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\obj\Debug\AdvancedCsharp_FinalProject.exe
+E:\MSU_Fall_2018\CIS466\Final Project\AdvancedCsharp_FinalProject\AdvancedCsharp_FinalProject\obj\Debug\AdvancedCsharp_FinalProject.pdb
