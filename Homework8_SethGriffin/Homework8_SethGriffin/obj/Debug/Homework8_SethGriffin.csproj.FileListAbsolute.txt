@@ -1,0 +1,8 @@
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\bin\Debug\Homework8_SethGriffin.exe.config
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\bin\Debug\Homework8_SethGriffin.exe
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\bin\Debug\Homework8_SethGriffin.pdb
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\obj\Debug\Homework8_SethGriffin.csprojAssemblyReference.cache
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\obj\Debug\Homework8_SethGriffin.csproj.CoreCompileInputs.cache
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\obj\Debug\Homework8_SethGriffin.exe
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\obj\Debug\Homework8_SethGriffin.pdb
+E:\MSU_Fall_2018\CIS466\Homework\Homework8_SethGriffin\Homework8_SethGriffin\obj\Debug\Homework8_SethGriffin.csproj.CopyComplete
