@@ -1,0 +1,10 @@
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.csprojAssemblyReference.cache
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.Form1.resources
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.Properties.Resources.resources
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.csproj.GenerateResource.cache
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.csproj.CoreCompileInputs.cache
+E:\C#\BudgetApp\BudgetApp\bin\Debug\BudgetApp.exe.config
+E:\C#\BudgetApp\BudgetApp\bin\Debug\BudgetApp.exe
+E:\C#\BudgetApp\BudgetApp\bin\Debug\BudgetApp.pdb
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.exe
+E:\C#\BudgetApp\BudgetApp\obj\Debug\BudgetApp.pdb
